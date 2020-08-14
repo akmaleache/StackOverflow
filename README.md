@@ -40,11 +40,7 @@ The questions are randomized and contains a mix of verbose text sites as well as
 Data Field Explaination
 
 Dataset contains 6,034,195 rows. The columns in the table are:
-
 Id - Unique identifier for each question
-
 Title - The question's title
-
 Body - The body of the question
-
 Tags - The tags associated with the question in a space-seperated format (all lowercase, should not contain tabs '\t' or ampersands '&')
